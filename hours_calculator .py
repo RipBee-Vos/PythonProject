@@ -1,12 +1,3 @@
-# Equal ==
-# Not equal !=
-# Greater than >
-# Less than <
-# Greater than or equal >=
-# Less than or equal <=
-# And
-# Or
-
 # Get user input
 Regular_rate = float(input("Enter your regular hourly rate: "))
 totalHours = float(input("Enter total hours worked: "))
