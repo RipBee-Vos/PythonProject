@@ -20,5 +20,3 @@ As I continue developing this project, I’ll be updating it with more examples 
 
 ## Notes
 This is part of my journey into combining my extensive leadership and management background with new technical skills in cybersecurity, coding, and project management.
-
--
